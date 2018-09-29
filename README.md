@@ -7,6 +7,6 @@
 **Thoughts** : Hope this will be exiciting ,will help me in learning Machine Learning in a more effective way .
 
 **Conclusion** : Although I couldnt do very well in the competition but I learnt about new regression techniques called Poisson
-              and Negative binomial Regression.
+              and Negative binomial.
 
 **Link of Work:** : https://royalbhati.github.io/possion-regression/
