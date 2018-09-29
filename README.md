@@ -10,3 +10,10 @@
               and Negative binomial.
 
 **Link of Work:** : https://royalbhati.github.io/possion-regression/
+
+
+## Day 2 : September 30 , 2018
+
+**Today's Progress** : I decided to learn more on L1,L2 Regularization and Lasso, Ridge and ElasticNet
+
+
