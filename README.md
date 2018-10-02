@@ -26,6 +26,6 @@
 **Link of Work:** : https://royalbhati.github.io/EvalMetrics/
 
 
-## Day 3 : October 2 , 2018
+## Day 4: October 2 , 2018
 
 **Today's Progress** : I decided to learn more about Tree based Models
