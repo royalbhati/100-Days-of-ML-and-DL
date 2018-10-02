@@ -19,9 +19,13 @@
 **Link of Work:** : https://royalbhati.github.io/regularization
 
 
-## Day 3 : September 30 , 2018
+## Day 3 : October 1 , 2018
 
 **Today's Progress** : I decided to learn more on Evaluation Metrics
 
+**Link of Work:** : https://royalbhati.github.io/EvalMetrics/
 
 
+## Day 3 : October 2 , 2018
+
+**Today's Progress** : I decided to learn more about Tree based Models
