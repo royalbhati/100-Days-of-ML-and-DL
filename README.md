@@ -50,6 +50,10 @@
 
 ## Day 8: October 6 , 2018
 
-**Today's Progress** : --No Work--
+**Today's Progress** :Kaggle Pubg challenge
 
+
+## Day 9: October 7 , 2018
+
+**Today's Progress** :Hackerearth HDFC hiring Challenge
 
