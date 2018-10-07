@@ -31,22 +31,24 @@
 **Today's Progress** : I decided to learn more about Tree based Models
 
 
-## Day 4: October 3 , 2018
+## Day 5: October 3 , 2018
 
-**Today's Progress** : I am still learning about Tree based models
+**Today's Progress** : Did Assignment 1 of Mlcourse.ai
+
+**Link of Work:** : https://github.com/royalbhati/mlcourse.ai
 
 
-## Day 4: October 4 , 2018
+## Day 6: October 4 , 2018
 
 **Today's Progress** : Applying what I learnt in Tree based models
 
 
-## Day 4: October 5 , 2018
+## Day 7: October 5 , 2018
 
 **Today's Progress** : Check out other people's work on Kaggle and Github
 
 
-## Day 4: October 6 , 2018
+## Day 8: October 6 , 2018
 
 **Today's Progress** : --No Work--
 
